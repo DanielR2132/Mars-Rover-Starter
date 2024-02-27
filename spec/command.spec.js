@@ -36,4 +36,6 @@ describe('Command class', function() {
       expect(command.value).toBe(expectedValue);
 });
 });
-});
+})
+
+//ssss
