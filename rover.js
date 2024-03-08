@@ -38,6 +38,5 @@
           results: results 
    }
    }
-   }
-    
+   }   
 module.exports = Rover;

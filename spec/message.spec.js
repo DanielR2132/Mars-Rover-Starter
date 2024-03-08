@@ -14,7 +14,7 @@ it("throws error if message type is NOT passed into constructor as the first par
 
 describe('Message class', function() {
 describe('constructor', function() {
-it('sets name', function() {
+it('sets Name', function() {
   const expectedName = 'Message';
   const message = new Message(expectedName);
   expect(message.name).toBe(expectedName);
